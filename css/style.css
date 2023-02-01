@@ -30,7 +30,7 @@ img{
     border-style: dashed;
     border-width: 10px;
 }
-div{
+body div{
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 20px;
